@@ -1,14 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EB9934F3A51C34F983F98D45DD101F30378639F7",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42D1192EEBADC20A186A0537F6E3B8F67D48AE3C+++F65BF91",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "EB9934F3A51C34F983F98D45DD101F30378639F7" : 0
+    "42D1192EEBADC20A186A0537F6E3B8F67D48AE3C+++F65BF91" : 0,
+    "EB9934F3A51C34F983F98D45DD101F30378639F7+++F4C373C" : 0,
+    "EB9934F3A51C34F983F98D45DD101F30378639F7+++941DDA1" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "97AED874-66AD-4B61-A5F4-0C89118813D0",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "EB9934F3A51C34F983F98D45DD101F30378639F7" : ""
+    "42D1192EEBADC20A186A0537F6E3B8F67D48AE3C+++F65BF91" : "gay\/",
+    "EB9934F3A51C34F983F98D45DD101F30378639F7+++F4C373C" : "",
+    "EB9934F3A51C34F983F98D45DD101F30378639F7+++941DDA1" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Calc",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -17,12 +21,17 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BlazAlen\/gay.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB9934F3A51C34F983F98D45DD101F30378639F7"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42D1192EEBADC20A186A0537F6E3B8F67D48AE3C+++F65BF91"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BlazAlen\/gay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB9934F3A51C34F983F98D45DD101F30378639F7+++941DDA1"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/blazalen\/calc.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB9934F3A51C34F983F98D45DD101F30378639F7"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB9934F3A51C34F983F98D45DD101F30378639F7+++F4C373C"
     }
   ]
 }
